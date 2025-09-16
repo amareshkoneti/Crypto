@@ -84,9 +84,9 @@ export default function InvitationTree({ reloadKey }) {
         },
         name: {
           stroke: 'none',
-          fill: '#1f2937',
+          fill: '#4b5563',
           fontSize: '13px',
-          fontWeight: '500',
+          fontWeight: 'normal',
           textAnchor: 'middle',
           fontFamily: 'system-ui, -apple-system, sans-serif',
         }
@@ -99,9 +99,9 @@ export default function InvitationTree({ reloadKey }) {
         },
         name: {
           stroke: 'none',
-          fill: '#1f2937',
+          fill: '#4b5563',
           fontSize: '13px',
-          fontWeight: '500',
+          fontWeight: 'normal',
           textAnchor: 'middle',
           fontFamily: 'system-ui, -apple-system, sans-serif',
         }
@@ -132,11 +132,11 @@ export default function InvitationTree({ reloadKey }) {
           }}
         />
         
-        {/* Node name with clean typography */}
+        {        /* Node name with normal typography */}
         <text
-          fill="#1f2937"
+          fill="#4b5563"
           fontSize="13px"
-          fontWeight="500"
+          fontWeight="normal"
           textAnchor="middle"
           x="0"
           y="-28"
