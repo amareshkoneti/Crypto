@@ -17,7 +17,7 @@ export default function InvitationTree({ reloadKey }) {
 
   return (
     <div className="card p-3">
-      <h4 className="mb-3">Invitation Tree</h4>
+      <h4 className="mb-3">TEAM PAVAN</h4>
       <div style={{ width: "100%", height: "500px" }}>
         {treeData.length > 0 ? (
           <Tree
